@@ -1,0 +1,8 @@
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\ALotOfThings\PodciagCiag\bin\Debug\PodciagCiag.exe.config
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\ALotOfThings\PodciagCiag\bin\Debug\PodciagCiag.exe
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\ALotOfThings\PodciagCiag\bin\Debug\PodciagCiag.pdb
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\ALotOfThings\PodciagCiag\obj\Debug\PodciagCiag.csproj.AssemblyReference.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\ALotOfThings\PodciagCiag\obj\Debug\PodciagCiag.csproj.SuggestedBindingRedirects.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\ALotOfThings\PodciagCiag\obj\Debug\PodciagCiag.csproj.CoreCompileInputs.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\ALotOfThings\PodciagCiag\obj\Debug\PodciagCiag.exe
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\ALotOfThings\PodciagCiag\obj\Debug\PodciagCiag.pdb

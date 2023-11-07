@@ -1,0 +1,8 @@
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\LinqLambda\bin\Debug\LinqLambda.exe.config
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\LinqLambda\bin\Debug\LinqLambda.exe
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\LinqLambda\bin\Debug\LinqLambda.pdb
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\LinqLambda\obj\Debug\LinqLambda.csproj.AssemblyReference.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\LinqLambda\obj\Debug\LinqLambda.csproj.SuggestedBindingRedirects.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\LinqLambda\obj\Debug\LinqLambda.csproj.CoreCompileInputs.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\LinqLambda\obj\Debug\LinqLambda.exe
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\LinqLambda\obj\Debug\LinqLambda.pdb
