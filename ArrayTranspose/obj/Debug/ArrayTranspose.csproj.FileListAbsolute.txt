@@ -1,0 +1,8 @@
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\ArrayTranspose\bin\Debug\ArrayTranspose.exe.config
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\ArrayTranspose\bin\Debug\ArrayTranspose.exe
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\ArrayTranspose\bin\Debug\ArrayTranspose.pdb
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\ArrayTranspose\obj\Debug\ArrayTranspose.csproj.AssemblyReference.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\ArrayTranspose\obj\Debug\ArrayTranspose.csproj.SuggestedBindingRedirects.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\ArrayTranspose\obj\Debug\ArrayTranspose.csproj.CoreCompileInputs.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\ArrayTranspose\obj\Debug\ArrayTranspose.exe
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\ArrayTranspose\obj\Debug\ArrayTranspose.pdb

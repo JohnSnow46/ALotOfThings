@@ -1,0 +1,8 @@
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\bubble\bin\Debug\bubble.exe.config
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\bubble\bin\Debug\bubble.exe
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\bubble\bin\Debug\bubble.pdb
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\bubble\obj\Debug\bubble.csproj.AssemblyReference.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\bubble\obj\Debug\bubble.csproj.SuggestedBindingRedirects.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\bubble\obj\Debug\bubble.csproj.CoreCompileInputs.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\bubble\obj\Debug\bubble.exe
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\bubble\obj\Debug\bubble.pdb

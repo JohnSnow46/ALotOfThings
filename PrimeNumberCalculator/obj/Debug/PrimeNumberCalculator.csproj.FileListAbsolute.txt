@@ -1,0 +1,8 @@
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\PrimeNumberCalculator\bin\Debug\PrimeNumberCalculator.exe.config
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\PrimeNumberCalculator\bin\Debug\PrimeNumberCalculator.exe
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\PrimeNumberCalculator\bin\Debug\PrimeNumberCalculator.pdb
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\PrimeNumberCalculator\obj\Debug\PrimeNumberCalculator.csproj.AssemblyReference.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\PrimeNumberCalculator\obj\Debug\PrimeNumberCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\PrimeNumberCalculator\obj\Debug\PrimeNumberCalculator.csproj.CoreCompileInputs.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\PrimeNumberCalculator\obj\Debug\PrimeNumberCalculator.exe
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\PrimeNumberCalculator\obj\Debug\PrimeNumberCalculator.pdb

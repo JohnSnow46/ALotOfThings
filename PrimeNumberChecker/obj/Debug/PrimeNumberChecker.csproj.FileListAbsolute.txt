@@ -1,0 +1,8 @@
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\PrimeNumberChecker\bin\Debug\PrimeNumberChecker.exe.config
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\PrimeNumberChecker\bin\Debug\PrimeNumberChecker.exe
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\PrimeNumberChecker\bin\Debug\PrimeNumberChecker.pdb
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\PrimeNumberChecker\obj\Debug\PrimeNumberChecker.csproj.AssemblyReference.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\PrimeNumberChecker\obj\Debug\PrimeNumberChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\PrimeNumberChecker\obj\Debug\PrimeNumberChecker.csproj.CoreCompileInputs.cache
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\PrimeNumberChecker\obj\Debug\PrimeNumberChecker.exe
+C:\Users\frane\Desktop\C SHARP\SimpleProject\training\PrimeNumberChecker\obj\Debug\PrimeNumberChecker.pdb
